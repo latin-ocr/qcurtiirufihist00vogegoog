@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./qcurtiirufihist00vogegoog_0408.png"; bbox 0 0 2317 3500; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 2 2094 446 2239">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 2 2094 446 2239">
+     <span class='ocr_line' id='line_1_1' title="bbox 2 2094 354 2156; baseline 0.011 -16"><span class='ocrx_word' id='word_1_1' title='bbox 2 2094 119 2156; x_wconf 79' lang='lat' dir='ltr'>apti</span> <span class='ocrx_word' id='word_1_2' title='bbox 127 2107 288 2153; x_wconf 65' lang='lat' dir='ltr'><strong>vos</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 316 2122 354 2144; x_wconf 74' lang='lat'>9</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 3 2171 446 2239; baseline 0.018 -14"><span class='ocrx_word' id='word_1_4' title='bbox 3 2171 190 2239; x_wconf 74' lang='lat' dir='ltr'><strong>uisset.</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 337 2180 446 2236; x_wconf 76' lang='lat' dir='ltr'>P</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 357 0 2317 3500">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 357 0 2317 3500">
+     <span class='ocr_line' id='line_1_3' title="bbox 357 0 2317 3500; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 357 0 2317 3500; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
